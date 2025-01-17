@@ -8,8 +8,7 @@ This project involves comparing the performance of different ETFs over a specifi
 - Your Name
 - Friend 1 Name
 - Friend 2 Name
-- Friend 3 Name
-
+- Sir James Jackson
 ## Installation
 
 To get this project up and running, follow these steps:
