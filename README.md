@@ -1,5 +1,20 @@
 # Project-Alpha
-Project One-Elliot Fisher, Sir James Jackson and Laurie Webb
-Elliot first push
-James first push
-Outside file
+# ETF Performance Comparison Project
+
+## Overview
+This project involves comparing the performance of different ETFs over a specific time frame. We've developed a Python script that fetches historical data from Yahoo Finance, normalizes it for comparison, and visualizes the data in a plot. This tool is particularly useful for investors or students interested in financial markets analysis.
+
+### Contributors
+- Your Name
+- Friend 1 Name
+- Friend 2 Name
+- Friend 3 Name
+
+## Installation
+
+To get this project up and running, follow these steps:
+
+1. **Clone the Repository:**
+   ```bash
+   git clone your-repository-url
+   cd repository-name
