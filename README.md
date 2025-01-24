@@ -21,7 +21,7 @@ Analysis Summary:During 2020, technology-focused ETFs like QQQ significantly out
 
 ### Contributors
 - Sir James Jackson
-- Laurie Webb
+- Madam Laurie Webb
 - Mr.Elliot Fisher
 
 ## Installation
